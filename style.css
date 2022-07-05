@@ -1,0 +1,14 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: #575757;
+}
+
+.color-skip {
+    color: #ff8b1f;
+}
